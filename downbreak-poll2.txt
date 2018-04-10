@@ -1,1 +1,1 @@
-
+<$q>Are you a dog?<$q><$o>yes<$o><$o>no<$o>
