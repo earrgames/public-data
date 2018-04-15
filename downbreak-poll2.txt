@@ -1,4 +1,4 @@
-<&b><#1><$l>https://steamcommunity.com/app/667790/discussions/0/1696043806574317707/<$l><$t>Hello pal :D<$t>
+</*&b*/><#1><$l>https://steamcommunity.com/app/667790/discussions/0/1696043806574317707/<$l><$t>Hello pal :D<$t>
 <$m>So you just installed the testing branch to see what is going on? cool! But be careful, you can expect everything to not work or even explode!<&p>Well, hmm, I guess that is it :D, you can check the [LOG] tab to see current version changes!.<&p>When this version comes out do you ask? you can ask the developer, not me, I'm just a message box pal.<&p>Sincerely,\n\nThe Pixelly Message Box.
 <$m>
 
