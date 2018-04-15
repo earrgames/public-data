@@ -1,8 +1,3 @@
 </*&b*/><#1><$l>https://steamcommunity.com/games/667790/announcements/detail/2996459011280425129<$l><$t>So, you've got a message!<$t>
-<$m>Seems like we have in-game notifications now! This will be useful for updates discussions; As you might have realized
- there is a ton of features which could be added or improved. The main goal is to make the game as rich and custom as possible,
- this could be the definitive minesweeping experience, and with your valuable feedback we can construct a much better game.
- <&p>Next Tuesday 17th we'll be discussing about an important update, which will improve many of the aspect of the game.
- I'll notify you about the post when it's available so you can join us and provide your opinion and ideas.
- <&p>Thanks for your time!<&p>Wishing you all the best,\n\nEmmanuel (earrgames).
+<$m>Seems like we have in-game notifications now! This will be useful for updates discussions; As you might have realized there is a ton of features which could be added or improved. The main goal is to make the game as rich and custom as possible, this could be the definitive minesweeping experience, and with your valuable feedback we can construct a much better game.<&p>Next Tuesday 17th we'll be discussing about an important update, which will improve many of the aspect of the game. I'll notify you about the post when it's available so you can join us and provide your opinion and ideas.<&p>Thanks for your time!<&p>Wishing you all the best,\n\nEmmanuel (earrgames).
 <$m>
