@@ -1,3 +1,3 @@
-</*&b*/><#2><$l>https://steamcommunity.com/app/667790/discussions/0/1696043806574317707/<$l><$t>So, you've got a message!<$t>
+</*&b*/><#2><$l>https://steamcommunity.com/app/667790/discussions/0/1696043806574317707/<$l><$t>Next update discussion is up!<$t>
 <$m>Hi there! A while ago I made a post about important changes that might improve the game experience. I would be glad if you could join the discussion and give your opinion about the subjects. Current subjects are Campaign and Challenge mode changes.<&p>PD: I forgot to change the version number in the main menu, but current version is 1.0.2, I apologize for any confusion caused. It'll be changed in next update.<&p>Thanks for your time!<&p>Wishing you all the best,\n\nEmmanuel (earrgames).
 <$m> 
