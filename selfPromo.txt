@@ -1,0 +1,13 @@
+﻿//Created on 14/10/2019. Self reminder: Do not remove this line!
+§TM§Fake Git works!§
+§CM§This is a test, it should show this info. ABCDEFGHIJK LMNOPQRSTUVW XYZ§
+§TS§Some Other stuff...§
+§ID§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦www.clickTarget.com¦Item details content here! 1234 56789 jajsjadjsda asd asd asd asd d.§
+§ID§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦www.clickTarget.com¦Hacer los Uis. Un popup con un vertical group, y los samples de cada tipo. Hacer en su script que fetcheara los objetos de promoData y los instanciara como sampels de UI comfigurados. Agregar hovers, etc.§
+§LL§Visit my blog¦www.earrgames.com¦my twitter¦www.twitter.com¦Steam Store¦www.steampowered.com§
+§TS§ §
+§IL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦www.clickTarget.com¦1.99$¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦¦Coming soon¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦¦Coming soon§
+ 
+§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg§
+§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr2.jpg§
+§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr2.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr2.jpg§

@@ -1,0 +1,22 @@
+﻿//Created on 14/10/2019. Do not remove this line.
+§CM§Thanks for playing my stuff! If you have found them of your liking, you may like some of my other games...§
+
+§TS§ §
+
+§TS§Downbreak (Puzzle)§
+
+§ID§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_cover.jpg¦https://store.steampowered.com/app/667790¦People swept mines for long years but now the game has changed! Welcome to Downbreak; the gravity based minesweeper. Experience a true classic reimagined with more features than ever!§
+
+§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr2.jpg§
+
+
+§TS§Into the gloom (Horror/Adventure)§
+
+§ID§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\itg_cover.jpg¦https://store.steampowered.com/app/342350¦Be prepared for the horror, and to run for your life, in this first person pixel style horror adventure; Featuring level progression puzzles and an intriguing plot-line.§
+
+§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\itg_scr1.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\itg_scr2.jpg§
+
+
+§CM§Thanks again for everything!
+<i>Stay hydrated</i>,
+<color=#0ff><i>Emmanuel.</i></color>§
