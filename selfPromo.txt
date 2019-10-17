@@ -1,13 +1,22 @@
-﻿//Created on 14/10/2019. Self reminder: Do not remove this line!
-§TM§Fake Git works!§
-§CM§This is a test, it should show this info. ABCDEFGHIJK LMNOPQRSTUVW XYZ§
-§TS§Some Other stuff...§
-§ID§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦www.clickTarget.com¦Item details content here! 1234 56789 jajsjadjsda asd asd asd asd d.§
-§ID§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦www.clickTarget.com¦Hacer los Uis. Un popup con un vertical group, y los samples de cada tipo. Hacer en su script que fetcheara los objetos de promoData y los instanciara como sampels de UI comfigurados. Agregar hovers, etc.§
-§LL§Visit my blog¦www.earrgames.com¦my twitter¦www.twitter.com¦Steam Store¦www.steampowered.com§
+//Created on 14/10/2019. Do not remove this line.
+§CM§Thanks for playing my stuff! If you have found them of your liking, you may like some of my other games...§
+
 §TS§ §
-§IL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦www.clickTarget.com¦1.99$¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦¦Coming soon¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦¦Coming soon§
- 
-§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg§
-§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr2.jpg§
-§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr2.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr2.jpg§
+
+§TS§Downbreak (Puzzle)§
+
+§ID§https://raw.githubusercontent.com/earrgames/public-data/master/promoImg/db_cover.jpg¦https://store.steampowered.com/app/667790¦People swept mines for long years but now the game has changed! Welcome to Downbreak; the gravity based minesweeper. Experience a true classic reimagined with more features than ever!§
+
+§GL§https://raw.githubusercontent.com/earrgames/public-data/master/promoImg/db_scr1.jpg¦https://raw.githubusercontent.com/earrgames/public-data/master/promoImg/db_scr2.jpg§
+
+
+§TS§Into the gloom (Horror/Adventure)§
+
+§ID§https://raw.githubusercontent.com/earrgames/public-data/master/promoImg/itg_cover.jpg¦https://store.steampowered.com/app/342350¦Be prepared for the horror, and to run for your life, in this first person pixel style horror adventure; Featuring level progression puzzles and an intriguing plot-line.§
+
+§GL§https://raw.githubusercontent.com/earrgames/public-data/master/promoImg/itg_scr1.jpg¦https://raw.githubusercontent.com/earrgames/public-data/master/promoImg/itg_scr2.jpg§
+
+
+§CM§Thanks again for everything!
+<i>Stay hydrated</i>,
+<color=#0ff><i>Emmanuel.</i></color>§
