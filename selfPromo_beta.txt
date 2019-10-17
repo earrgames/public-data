@@ -5,16 +5,16 @@
 
 §TS§Downbreak (Puzzle)§
 
-§ID§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_cover.jpg¦https://store.steampowered.com/app/667790¦People swept mines for long years but now the game has changed! Welcome to Downbreak; the gravity based minesweeper. Experience a true classic reimagined with more features than ever!§
+§ID§https://github.com/earrgames/public-data/blob/master/promoImg/db_cover.jpg¦https://store.steampowered.com/app/667790¦People swept mines for long years but now the game has changed! Welcome to Downbreak; the gravity based minesweeper. Experience a true classic reimagined with more features than ever!§
 
-§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr1.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\db_scr2.jpg§
+§GL§https://github.com/earrgames/public-data/blob/master/promoImg/db_scr1.jpg¦https://github.com/earrgames/public-data/blob/master/promoImg/db_scr2.jpg§
 
 
 §TS§Into the gloom (Horror/Adventure)§
 
-§ID§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\itg_cover.jpg¦https://store.steampowered.com/app/342350¦Be prepared for the horror, and to run for your life, in this first person pixel style horror adventure; Featuring level progression puzzles and an intriguing plot-line.§
+§ID§https://github.com/earrgames/public-data/blob/master/promoImg/itg_cover.jpg¦https://store.steampowered.com/app/342350¦Be prepared for the horror, and to run for your life, in this first person pixel style horror adventure; Featuring level progression puzzles and an intriguing plot-line.§
 
-§GL§F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\itg_scr1.jpg¦F:\Current\Unity2017\HexagridTest\HexagridTest\fakeimgs\itg_scr2.jpg§
+§GL§https://github.com/earrgames/public-data/blob/master/promoImg/itg_scr1.jpg¦https://github.com/earrgames/public-data/blob/master/promoImg/itg_scr2.jpg§
 
 
 §CM§Thanks again for everything!
